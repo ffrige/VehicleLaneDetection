@@ -3,10 +3,10 @@ Final project of Udacity Self-Driving Car Term1
 
 ![](frame.jpg)
 
-##Specifications
+## Specifications
 The goal of this project is to analyze a video taken by a vehicle front camera, recognize the current driving lane and detect other vehicles on the road. Additionally, we calculate the current road curvature and the lateral offset of the vehicle from the center of the lane.
 
-##Implementation
+## Implementation
 The project is split in two parts: lane detection and vehicle detection. Detailed descriptions of the two implementations are available in the pdf files.
 
 Lane detection briefly consists in the following functions:
