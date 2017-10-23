@@ -43,4 +43,4 @@ We decided to try with CNN, SDD in particular, since its implementation and pre-
 
 ![](sdd.jpg)
 
-A final video of lane and vehicle detection combined is available here: /* TODO */
+A final video of lane and vehicle detection combined is available here: https://vimeo.com/239380146
